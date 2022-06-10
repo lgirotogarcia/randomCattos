@@ -45,8 +45,7 @@ body.dark button:hover {
 }
 
 #catto-img {
-    height: 50%;
-    width:auto;
+    max-width: 600px;
     border-radius: 30px;
 }
 
